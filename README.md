@@ -50,12 +50,5 @@ The repository also includes functionalities for data collection:
 
 - Thirty videos worth of data are recorded for each action.
 - Videos consist of 30 frames each, capturing different instances of the action.
+- Data recorded by our teammates by own
 
-## Acknowledgments
-
-- This project utilizes the MediaPipe library developed by Google.
-- Special thanks to the OpenCV community for providing valuable resources.
-
----
-
-Feel free to customize this template according to your project's specifics. Ensure to include any additional instructions, credits, or licensing details as necessary.
